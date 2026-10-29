@@ -1,0 +1,428 @@
+{
+  "source_sha256": "e37a94ba0502e935bd09b7f2973f216830a515db4f88e3210957fa27de5b49ad",
+  "cadquery_version": "2.7.0",
+  "physical_parts": 66,
+  "solid_count": 96,
+  "step_roundtrip_valid": true,
+  "dimensions_xyz_mm": [
+    38.80000000000007,
+    56.0,
+    19.88692683859664
+  ],
+  "bounds_min_mm": [
+    -19.399999999999977,
+    4.999999999999999,
+    -9.999999644728632e-08
+  ],
+  "bounds_max_mm": [
+    19.40000000000009,
+    61.0,
+    19.886926738596642
+  ],
+  "omitted_cages": [
+    "1:全体 v36/2:足回り v20/7:LF-630 v1/2:LF-630_cage",
+    "1:全体 v36/2:足回り v20/8:LF-630 v1/2:LF-630_cage",
+    "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+    "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)"
+  ],
+  "parts": [
+    {
+      "id": "000_motor",
+      "source_name": "1:全体 v36/2:足回り v20/1:NFP-D0812 v2",
+      "category": "motor",
+      "solids": 1
+    },
+    {
+      "id": "001_gear",
+      "source_name": "1:全体 v36/2:足回り v20/2:ピニオンギアm0.3_11 v1/1:Spur Gear (11 teeth)",
+      "category": "gear",
+      "solids": 1
+    },
+    {
+      "id": "002_wheel",
+      "source_name": "1:全体 v36/2:足回り v20/3:ホイール v21",
+      "category": "wheel",
+      "solids": 1
+    },
+    {
+      "id": "003_tire",
+      "source_name": "1:全体 v36/2:足回り v20/4:ミニッツタイヤ v5",
+      "category": "tire",
+      "solids": 1
+    },
+    {
+      "id": "004_gear",
+      "source_name": "1:全体 v36/2:足回り v20/5:歯車M0.3T41 v4/1:Spur Gear (41 teeth)",
+      "category": "gear",
+      "solids": 1
+    },
+    {
+      "id": "005_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/6:3*6平行ピン v1",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "006_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/1:LF-630_ir",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "007_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/3:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "008_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/4:LF-630_or",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "009_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/5:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "010_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/6:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "011_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/7:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "012_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/8:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "013_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/9:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "014_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/10:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "015_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/7:LF-630 v1/11:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "016_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/1:LF-630_ir",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "017_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/3:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "018_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/4:LF-630_or",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "019_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/5:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "020_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/6:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "021_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/7:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "022_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/8:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "023_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/9:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "024_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/10:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "025_bearing",
+      "source_name": "1:全体 v36/2:足回り v20/8:LF-630 v1/11:LF-630_ball",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "026_magnet",
+      "source_name": "1:全体 v36/2:足回り v20/9:3mm磁石 v1",
+      "category": "magnet",
+      "solids": 1
+    },
+    {
+      "id": "027_mount",
+      "source_name": "1:全体 v36/2:足回り v20/10:モータマウント v26",
+      "category": "mount",
+      "solids": 1
+    },
+    {
+      "id": "028_encoder",
+      "source_name": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/1:TSSOP14_OSM v1",
+      "category": "encoder",
+      "solids": 16
+    },
+    {
+      "id": "029_encoder",
+      "source_name": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/2:SOLID",
+      "category": "encoder",
+      "solids": 1
+    },
+    {
+      "id": "030_motor",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/1:NFP-D0812 v2(ミラー)",
+      "category": "motor",
+      "solids": 1
+    },
+    {
+      "id": "031_gear",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/2:ピニオンギアm0.3_11 v1(ミラー)/1:Spur Gear (11 teeth)(ミラー)",
+      "category": "gear",
+      "solids": 1
+    },
+    {
+      "id": "032_wheel",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/3:ホイール v21(ミラー)",
+      "category": "wheel",
+      "solids": 1
+    },
+    {
+      "id": "033_tire",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/4:ミニッツタイヤ v5(ミラー)",
+      "category": "tire",
+      "solids": 1
+    },
+    {
+      "id": "034_gear",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/5:歯車M0.3T41 v4(ミラー)/1:Spur Gear (41 teeth)(ミラー)",
+      "category": "gear",
+      "solids": 1
+    },
+    {
+      "id": "035_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/6:3*6平行ピン v1(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "036_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "037_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "038_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "039_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "040_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "041_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "042_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "043_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "044_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "045_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "046_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "047_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "048_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "049_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "050_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "051_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "052_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "053_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "054_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "055_bearing",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "category": "bearing",
+      "solids": 1
+    },
+    {
+      "id": "056_magnet",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/9:3mm磁石 v1(ミラー)",
+      "category": "magnet",
+      "solids": 1
+    },
+    {
+      "id": "057_encoder",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/1:TSSOP14_OSM v1(ミラー)",
+      "category": "encoder",
+      "solids": 16
+    },
+    {
+      "id": "058_encoder",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/2:SOLID",
+      "category": "encoder",
+      "solids": 1
+    },
+    {
+      "id": "059_mount",
+      "source_name": "1:全体 v36/10:足回り v14(ミラー)/11:モータマウント v12(ミラー)",
+      "category": "mount",
+      "solids": 1
+    },
+    {
+      "id": "060_fan_motor",
+      "source_name": "1:全体 v36/11:MK06-45 v2",
+      "category": "fan_motor",
+      "solids": 1
+    },
+    {
+      "id": "061_fan_mount",
+      "source_name": "1:全体 v36/12:吸引ファンモータマウント v7",
+      "category": "fan_mount",
+      "solids": 1
+    },
+    {
+      "id": "062_fan",
+      "source_name": "1:全体 v36/15:吸引ファン(アクリル) v3/2:SOLID",
+      "category": "fan",
+      "solids": 1
+    },
+    {
+      "id": "063_pcb",
+      "source_name": "new_board_A04",
+      "category": "pcb",
+      "solids": 1
+    },
+    {
+      "id": "064_battery",
+      "source_name": "battery-envelope-1",
+      "category": "battery",
+      "solids": 1
+    },
+    {
+      "id": "065_battery",
+      "source_name": "battery-envelope-2",
+      "category": "battery",
+      "solids": 1
+    }
+  ],
+  "cg_marker_scope": "HTML only; five assumed groups 5g each, not measured complete robot CG",
+  "license": "third_party/ToraNeko.Mk3.LICENSE"
+}

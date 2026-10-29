@@ -1,0 +1,280 @@
+{
+  "source_sha256": "e37a94ba0502e935bd09b7f2973f216830a515db4f88e3210957fa27de5b49ad",
+  "material_settings": [
+    {
+      "product_definition_id": "115325",
+      "name": "基板 v51",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115327",
+      "name": "NFP-D0812 v2",
+      "material": "アルミニウム",
+      "density_kg_m3": 2700.0
+    },
+    {
+      "product_definition_id": "115329",
+      "name": "Spur Gear (11 teeth)",
+      "material": "真鍮",
+      "density_kg_m3": 8490.0
+    },
+    {
+      "product_definition_id": "115330",
+      "name": "ホイール v21",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115331",
+      "name": "ミニッツタイヤ v5",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115333",
+      "name": "Spur Gear (41 teeth)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115334",
+      "name": "3*6平行ピン v1",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115337",
+      "name": "LF-630_ir",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115338",
+      "name": "LF-630_cage",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115339",
+      "name": "LF-630_or",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115340",
+      "name": "LF-630_ball",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115341",
+      "name": "3mm磁石  v1",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115342",
+      "name": "モータマウント v26",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115344",
+      "name": "TSSOP14_OSM v1",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115353",
+      "name": "Φ3弾丸型LED v2 v1",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115354",
+      "name": "支柱 v3",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115355",
+      "name": "上部固定基板 v23",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115357",
+      "name": "NFP-D0812 v2(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115359",
+      "name": "Spur Gear (11 teeth)(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115360",
+      "name": "ホイール v21(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115361",
+      "name": "ミニッツタイヤ v5(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115363",
+      "name": "Spur Gear (41 teeth)(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115364",
+      "name": "3*6平行ピン v1(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115367",
+      "name": "LF-630_ir(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115368",
+      "name": "LF-630_cage(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115369",
+      "name": "LF-630_ball(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115370",
+      "name": "LF-630_or(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115371",
+      "name": "3mm磁石 v1(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115373",
+      "name": "TSSOP14_OSM v1(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115374",
+      "name": "モータマウント v12(ミラー)",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115375",
+      "name": "MK06-45 v2",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115376",
+      "name": "吸引ファンモータマウント v7",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115377",
+      "name": "ヤシの木バッテリー100mAh v1",
+      "material": "鋼",
+      "density_kg_m3": 7850.0
+    },
+    {
+      "product_definition_id": "115380",
+      "name": "吸引ファンΦ30内径1mm v7",
+      "material": "アセタール樹脂、黒",
+      "density_kg_m3": 1425.0
+    }
+  ],
+  "a04_geometry": [
+    {
+      "name": "1:全体 v36/2:足回り v20/1:NFP-D0812 v2",
+      "volume_mm3": 649.308296634755,
+      "uniform_density_centroid_mm": [
+        -6.516080014515245,
+        40.830090302001075,
+        7.685044237996528
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    },
+    {
+      "name": "1:全体 v36/10:足回り v14(ミラー)/1:NFP-D0812 v2(ミラー)",
+      "volume_mm3": 649.3082966347552,
+      "uniform_density_centroid_mm": [
+        6.516080014515264,
+        40.830090302001146,
+        7.6850442379966
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    },
+    {
+      "name": "1:全体 v36/11:MK06-45 v2",
+      "volume_mm3": 341.9348714075302,
+      "uniform_density_centroid_mm": [
+        1.0058276878055494e-07,
+        16.49999990049413,
+        13.830901908856038
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    },
+    {
+      "name": "1:全体 v36/12:吸引ファンモータマウント v7",
+      "volume_mm3": 136.74157938153925,
+      "uniform_density_centroid_mm": [
+        3.8313868326866896e-05,
+        16.499978729131882,
+        9.436247156701436
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    },
+    {
+      "name": "1:全体 v36/15:吸引ファン(アクリル) v3/2:SOLID",
+      "volume_mm3": 424.27594434060205,
+      "uniform_density_centroid_mm": [
+        3.674663719976934e-07,
+        16.500002024409493,
+        5.541450022900591
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    },
+    {
+      "name": "A04 bare PCB geometry",
+      "volume_mm3": 1048.632478338675,
+      "uniform_density_centroid_mm": [
+        -2.6844416337908085e-14,
+        32.9740255915497,
+        2.086926738596999
+      ],
+      "actual_mass_g": null,
+      "actual_cg_mm": null
+    }
+  ],
+  "conclusion": "CAD density settings unsuitable for actual assembled mass / CG",
+  "actual_total_mass_g": null,
+  "actual_whole_robot_cg_mm": null
+}

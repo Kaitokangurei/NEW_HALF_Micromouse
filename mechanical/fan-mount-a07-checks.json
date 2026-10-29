@@ -1,0 +1,6953 @@
+{
+  "fan_axis_y_mm": 21.75,
+  "fan_shift_y_mm": 5.25,
+  "battery_centers_x_mm": [
+    -9.5,
+    9.5
+  ],
+  "battery_center_y_mm": 33,
+  "source_sha256": "e37a94ba0502e935bd09b7f2973f216830a515db4f88e3210957fa27de5b49ad",
+  "parts": 77,
+  "solids": 107,
+  "step_roundtrip_valid": true,
+  "dimensions_xyz_mm": [
+    38.80000000000004,
+    56.0,
+    19.886926738597044
+  ],
+  "checks": [
+    {
+      "a": "upper_plate",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "upper_plate",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_0",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_post_1",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.884343880659503,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "fan_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_0",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.884343880659449,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "fan_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_1",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "front_post_0",
+      "volume_mm3": 0.8843438806593209,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_top_0",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_top_0",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_0",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_top_1",
+      "b": "front_post_1",
+      "volume_mm3": 0.8843438806593207,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_top_1",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_top_1",
+      "b": "front_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "027_mount",
+      "volume_mm3": 1.331291186336033,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "drive_top_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "drive_top_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "front_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_0",
+      "b": "front_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "drive_top_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "059_mount",
+      "volume_mm3": 1.3312911863359094,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "drive_top_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "front_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "front_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "drive_top_1",
+      "b": "drive_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "front_post_0",
+      "volume_mm3": 1.3312911863356962,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "front_post_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "front_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "front_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "drive_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_0",
+      "b": "drive_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "upper_plate",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "front_post_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "front_post_1",
+      "volume_mm3": 1.331291186335696,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "fan_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "fan_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "front_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "front_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "drive_top_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "drive_top_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "front_bottom_1",
+      "b": "front_bottom_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "060_fan_motor",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "061_fan_mount",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "062_fan",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "064_battery",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "065_battery",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    }
+  ],
+  "blade_swept_envelope_checks": [
+    {
+      "part": "upper_plate",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.6874999999998135
+    },
+    {
+      "part": "front_post_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.5176802849047237
+    },
+    {
+      "part": "front_post_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.5176802849048082
+    },
+    {
+      "part": "fan_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.2874999999998131
+    },
+    {
+      "part": "fan_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.2874999999998131
+    },
+    {
+      "part": "front_top_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.8422642544505936
+    },
+    {
+      "part": "front_top_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.8422642544505938
+    },
+    {
+      "part": "drive_top_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.4746944897079777
+    },
+    {
+      "part": "drive_top_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.474694489707976
+    },
+    {
+      "part": "front_bottom_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.2856163409360621
+    },
+    {
+      "part": "front_bottom_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.2856163409360621
+    },
+    {
+      "part": "000_motor",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.045997641085427
+    },
+    {
+      "part": "001_gear",
+      "volume_mm3": 0.0,
+      "distance_mm": 10.853912465889644
+    },
+    {
+      "part": "002_wheel",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.300996864401512
+    },
+    {
+      "part": "003_tire",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.5980376717092195
+    },
+    {
+      "part": "004_gear",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.705441161692516
+    },
+    {
+      "part": "005_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.9248952931838073
+    },
+    {
+      "part": "006_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.4663760131921375
+    },
+    {
+      "part": "007_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.342522348960907
+    },
+    {
+      "part": "008_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.841571619085595
+    },
+    {
+      "part": "009_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.218638194006637
+    },
+    {
+      "part": "010_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.55408940227138
+    },
+    {
+      "part": "011_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.090420794413039
+    },
+    {
+      "part": "012_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.02298804319651
+    },
+    {
+      "part": "013_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.040449808272092
+    },
+    {
+      "part": "014_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.662053874708065
+    },
+    {
+      "part": "015_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.215694965204215
+    },
+    {
+      "part": "016_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.779974657375466
+    },
+    {
+      "part": "017_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.407292463965438
+    },
+    {
+      "part": "018_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.718604468002777
+    },
+    {
+      "part": "019_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.576639116977265
+    },
+    {
+      "part": "020_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.080513977045077
+    },
+    {
+      "part": "021_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.736583422002113
+    },
+    {
+      "part": "022_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.826615706987769
+    },
+    {
+      "part": "023_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.5693860182250012
+    },
+    {
+      "part": "024_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.893306420832416
+    },
+    {
+      "part": "025_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.317258783956197
+    },
+    {
+      "part": "026_magnet",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.1828241021490555
+    },
+    {
+      "part": "027_mount",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.1792725887440119
+    },
+    {
+      "part": "028_encoder",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.307361722262006
+    },
+    {
+      "part": "029_encoder",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.5315978332362851
+    },
+    {
+      "part": "030_motor",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.045997641085428
+    },
+    {
+      "part": "031_gear",
+      "volume_mm3": 0.0,
+      "distance_mm": 10.853912465889644
+    },
+    {
+      "part": "032_wheel",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.300996864401487
+    },
+    {
+      "part": "033_tire",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.5980376717093305
+    },
+    {
+      "part": "034_gear",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.7054411616924803
+    },
+    {
+      "part": "035_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.9248952931837984
+    },
+    {
+      "part": "036_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.466376092772303
+    },
+    {
+      "part": "037_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.342522348960909
+    },
+    {
+      "part": "038_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.218638194006638
+    },
+    {
+      "part": "039_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.55408940227149
+    },
+    {
+      "part": "040_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 7.090420794412853
+    },
+    {
+      "part": "041_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.022988043196851
+    },
+    {
+      "part": "042_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.040449808271267
+    },
+    {
+      "part": "043_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.662053874708152
+    },
+    {
+      "part": "044_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.215694965204216
+    },
+    {
+      "part": "045_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.841571619085565
+    },
+    {
+      "part": "046_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.779974657375457
+    },
+    {
+      "part": "047_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.407292463947657
+    },
+    {
+      "part": "048_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.576639116979528
+    },
+    {
+      "part": "049_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.080513977045869
+    },
+    {
+      "part": "050_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 5.7365834220021155
+    },
+    {
+      "part": "051_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 4.826615706987769
+    },
+    {
+      "part": "052_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.5693860182249995
+    },
+    {
+      "part": "053_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.8933064208324604
+    },
+    {
+      "part": "054_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.3172587839586414
+    },
+    {
+      "part": "055_bearing",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.718604468002761
+    },
+    {
+      "part": "056_magnet",
+      "volume_mm3": 0.0,
+      "distance_mm": 3.1828241021490467
+    },
+    {
+      "part": "057_encoder",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.3073617222620042
+    },
+    {
+      "part": "058_encoder",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.5315978332362864
+    },
+    {
+      "part": "059_mount",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.179272588744
+    },
+    {
+      "part": "063_pcb",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.4312498999997234
+    },
+    {
+      "part": "064_battery",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.300573261403214
+    },
+    {
+      "part": "065_battery",
+      "volume_mm3": 0.0,
+      "distance_mm": 6.300573261403214
+    }
+  ],
+  "upper_plate_volume_mm3": 262.93800531218,
+  "upper_plate_assumed_fr4_mass_g": 0.48643530982753297,
+  "note": "Source posts preserved. Fan translated +5.25 mm Y; batteries shifted outward 3.2 mm each; upper plate drive holes moved inward 0.3 mm; M1.4 thread engagement exempted, strength unverified. Original cages omitted as in A04."
+}

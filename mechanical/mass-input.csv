@@ -1,0 +1,11 @@
+group,mass_g,cg_x_mm,cg_y_mm,cg_z_mm,notes
+left_drive,,,,,車輪・モータ・ギア・マウント・磁石・エンコーダを含む
+right_drive,,,,,左右を別に測る
+battery_left,,,,,セルと付属リード・コネクタを含む
+battery_right,,,,,セルと付属リード・コネクタを含む
+fan_assembly,,,,,モータ・羽根・ケース・支持部を含む
+populated_main_pcb,,,,,部品実装後のメイン基板
+sensors_and_holders,,,,,上の基板質量に含めた部品を二重計上しない
+battery_holder,,,,,電池固定具
+skirt_and_sliders,,,,,スカート・スライダー
+remaining_wires_fasteners,,,,,各グループに含めていない配線・ネジ等

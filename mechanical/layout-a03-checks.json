@@ -1,0 +1,1918 @@
+{
+  "source_sha256": "e37a94ba0502e935bd09b7f2973f216830a515db4f88e3210957fa27de5b49ad",
+  "method": "Open CASCADE static solid intersection and minimum distance",
+  "source_invalid_shapes": [
+    "1:全体 v36/2:足回り v20/7:LF-630 v1/2:LF-630_cage",
+    "1:全体 v36/2:足回り v20/8:LF-630 v1/2:LF-630_cage"
+  ],
+  "volume_threshold_mm3": 1e-05,
+  "drive_parts": 64,
+  "pcb_tests": 64,
+  "battery_tests": 128,
+  "cross_unit_candidates": [],
+  "cross_unit_distance_mm": 0.4000000000002952,
+  "motor_shift_scan": [
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 0.0,
+      "distance_mm": 1.0000000000002984,
+      "bbox_distance_lower_bound_mm": 1.0000000000002665,
+      "distance_inconsistent": false,
+      "penetration": false,
+      "inward_per_side_mm": 0
+    },
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 0.0,
+      "distance_mm": 0.6000000000002998,
+      "bbox_distance_lower_bound_mm": 0.6000000000002679,
+      "distance_inconsistent": false,
+      "penetration": false,
+      "inward_per_side_mm": 0.2
+    },
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 0.0,
+      "distance_mm": 0.400000000000297,
+      "bbox_distance_lower_bound_mm": 0.40000000000026503,
+      "distance_inconsistent": false,
+      "penetration": false,
+      "inward_per_side_mm": 0.3
+    },
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 0.0,
+      "distance_mm": 0.20000000000029772,
+      "bbox_distance_lower_bound_mm": 0.20000000000026574,
+      "distance_inconsistent": false,
+      "penetration": false,
+      "inward_per_side_mm": 0.4
+    },
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 0.0,
+      "distance_mm": 2.984279490192421e-13,
+      "bbox_distance_lower_bound_mm": 2.6645352591003757e-13,
+      "distance_inconsistent": false,
+      "penetration": false,
+      "inward_per_side_mm": 0.5
+    },
+    {
+      "a": "motor-left",
+      "b": "motor-right",
+      "intersection_mm3": 149.43692315145358,
+      "distance_mm": 1.7763568394002505e-15,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": true,
+      "inward_per_side_mm": 1.95
+    }
+  ],
+  "records": [
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/1:NFP-D0812 v2",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.2481174993999105,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/1:NFP-D0812 v2",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.7649557620034546,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/1:NFP-D0812 v2",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.8344123968806243,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/2:ピニオンギアm0.3_11 v1/1:Spur Gear (11 teeth)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.3571369151621937,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/2:ピニオンギアm0.3_11 v1/1:Spur Gear (11 teeth)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.055574365973969,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/2:ピニオンギアm0.3_11 v1/1:Spur Gear (11 teeth)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.333446233126958,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/3:ホイール v21",
+      "intersection_mm3": 0,
+      "distance_mm": 1.3475380786376072,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/3:ホイール v21",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.1360009012169936,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/3:ホイール v21",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.619251001675789,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/4:ミニッツタイヤ v5",
+      "intersection_mm3": 0,
+      "distance_mm": 2.234741222020795,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/4:ミニッツタイヤ v5",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.599999999999941,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/4:ミニッツタイヤ v5",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 16.199999999999942,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/5:歯車M0.3T41 v4/1:Spur Gear (41 teeth)",
+      "intersection_mm3": 0,
+      "distance_mm": 0.49999999999994316,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/5:歯車M0.3T41 v4/1:Spur Gear (41 teeth)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.6008242022851835,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/5:歯車M0.3T41 v4/1:Spur Gear (41 teeth)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.200092802746768,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/6:3*6平行ピン v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.113073361403398,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/6:3*6平行ピン v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.999999900000001,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/6:3*6平行ピン v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.63170610012752,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.7130732614032933,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.599999800000106,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.413426041097628,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.2638482614033,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.8901464497822644,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.714633384846765,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.466173361403299,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.900013903741969,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.753844133527853,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.0130733614032974,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.8999999000001004,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.929423687852267,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619072997,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.552237146108577,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.952812728421685,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.2161733614033,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.132826265220711,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.545434953942642,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.625183103733698,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.717690908837278,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.28138975893047,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.9661733614034,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.374843732833455,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.623576016692695,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.625183103733698,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.717690908837278,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.281389758930466,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.2161733614033,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.132826265220711,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.545434953942642,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619072997,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.552237146108577,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/7:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.952812728421684,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.7130732614034176,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.599999799999981,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/1:LF-630_ir",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.371895099762352,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.962204361403427,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.150774799999972,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/2:LF-630_cage",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.722853239537367,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.966173361403425,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.353099899999975,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/3:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.814575185266426,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.0130733614034182,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.8999998999999814,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/4:LF-630_or",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 10.796758746031093,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.625183103733696,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.694090157669704,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/5:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.426363355888636,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.216173361403418,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.103099899999982,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/6:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.582370126465799,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.80716361907315,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.512109642330248,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/7:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.892322861174282,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.466173361403418,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.8530998999999806,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/8:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.658241224532064,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619073152,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.5121096423302465,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/9:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.892322861174284,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.216173361403428,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.103099899999973,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/10:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.582370126465795,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.625183103733696,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.694090157669704,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/8:LF-630 v1/11:LF-630_ball",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.426363355888633,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/9:3mm磁石 v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.1130733614033987,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/9:3mm磁石 v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.999999899999999,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/9:3mm磁石 v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.720068216524975,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/10:モータマウント v26",
+      "intersection_mm3": 0.0,
+      "distance_mm": 1.1546319456101628e-14,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/10:モータマウント v26",
+      "intersection_mm3": 0.0,
+      "distance_mm": 0.8149557620033665,
+      "bbox_distance_lower_bound_mm": 0.8149556620034151,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/10:モータマウント v26",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.43944020957714,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/1:TSSOP14_OSM v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.413073361403383,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/1:TSSOP14_OSM v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.2999998999999978,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/1:TSSOP14_OSM v1",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 9.49772790408316,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": 7.336140339209152e-05,
+      "bbox_distance_lower_bound_mm": 7.336140339164743e-05,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.612999900000002,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/2:足回り v20/11:エンコーダ基板 v13/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.75598181116197,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/1:NFP-D0812 v2(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.2481174993999984,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/1:NFP-D0812 v2(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.8344123968805772,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/1:NFP-D0812 v2(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.7649557620033995,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/2:ピニオンギアm0.3_11 v1(ミラー)/1:Spur Gear (11 teeth)(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.3571369151622967,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/2:ピニオンギアm0.3_11 v1(ミラー)/1:Spur Gear (11 teeth)(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.333446233127182,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/2:ピニオンギアm0.3_11 v1(ミラー)/1:Spur Gear (11 teeth)(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.055574365973953,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/3:ホイール v21(ミラー)",
+      "intersection_mm3": 0,
+      "distance_mm": 1.347538078637708,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/3:ホイール v21(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.619251001675906,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/3:ホイール v21(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.1360009012171006,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/4:ミニッツタイヤ v5(ミラー)",
+      "intersection_mm3": 0,
+      "distance_mm": 2.2347412220207525,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/4:ミニッツタイヤ v5(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 16.200000000000053,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/4:ミニッツタイヤ v5(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.600000000000051,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/5:歯車M0.3T41 v4(ミラー)/1:Spur Gear (41 teeth)(ミラー)",
+      "intersection_mm3": 0,
+      "distance_mm": 0.5000000000000586,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/5:歯車M0.3T41 v4(ミラー)/1:Spur Gear (41 teeth)(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.200092802746878,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/5:歯車M0.3T41 v4(ミラー)/1:Spur Gear (41 teeth)(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.6008242022852934,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/6:3*6平行ピン v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.113073361403403,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/6:3*6平行ピン v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.631706100127627,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/6:3*6平行ピン v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.999999899999995,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.7130732614034017,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.413426075391795,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.599999899999995,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.2638482614034032,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.802329210525793,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.188837804896846,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.466173361403404,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.753844133527933,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.900013903741883,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619073202,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.952812728421824,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.552237146108403,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.216173361403404,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.545434953942802,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.13282626522063,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.6251831037337015,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.281389758930652,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.717690908837291,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.9661733614034036,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.623576016692871,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.374843732833467,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.6251831037337015,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 15.281389758930636,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.717690908837289,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.216173361403404,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 14.545434953942777,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.1328262652206265,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619073202,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.952812728421806,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.552237146108401,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.0130733614034022,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.929423785304605,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/7:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.8999998999999974,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.7130732614034203,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.371895099762453,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/1:LF-630_ir(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.599999799999978,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.263848261403428,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.722853239537468,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/2:LF-630_cage(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.1507747999999705,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.9661733614034285,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.814575185266511,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/3:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.353099899999972,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.6251831037336997,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.426363355888729,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/4:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.6940901576697005,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.216173361403421,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.582370126465904,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/5:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.103099899999979,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.807163619073152,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.892322861174392,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/6:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.5121096423302465,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.466173361403421,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.65824122453217,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/7:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.853099899999977,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 5.8071636190731555,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.892322861174375,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/8:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.512109642330243,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.21617336140343,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 12.582370126465875,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/9:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 6.10309989999997,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.6251831037336997,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 13.426363355888714,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/10:LF-630_ball(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 7.6940901576697005,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.0130733614034217,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 10.7967587460312,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/8:LF-630 v1(ミラー)/11:LF-630_or(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.899999899999978,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/9:3mm磁石 v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.113073361403403,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/9:3mm磁石 v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 11.72006821652508,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/9:3mm磁石 v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 4.999999899999995,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/1:TSSOP14_OSM v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 1.4130733614033861,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/1:TSSOP14_OSM v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 9.497727904083265,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/1:TSSOP14_OSM v1(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 3.299999899999994,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": 7.336140339564423e-05,
+      "bbox_distance_lower_bound_mm": 7.336140339564423e-05,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.755981811162076,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/10:エンコーダ基板 v7(ミラー)/2:SOLID",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 2.6129998999999984,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "pcb-a03",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/11:モータマウント v12(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": 7.105427357601002e-15,
+      "bbox_distance_lower_bound_mm": 0.0,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-1",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/11:モータマウント v12(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": null,
+      "bbox_distance_lower_bound_mm": 8.439440209577503,
+      "distance_inconsistent": false,
+      "penetration": false
+    },
+    {
+      "a": "battery-envelope-2",
+      "b": "1:全体 v36/10:足回り v14(ミラー)/11:モータマウント v12(ミラー)",
+      "intersection_mm3": 0.0,
+      "distance_mm": 0.814955762003347,
+      "bbox_distance_lower_bound_mm": 0.8149556620034044,
+      "distance_inconsistent": false,
+      "penetration": false
+    }
+  ],
+  "mount_support": [
+    {
+      "name": "1:全体 v36/2:足回り v20/10:モータマウント v26",
+      "near_base_section_area_mm2": 60.54784673908584,
+      "supported_section_area_mm2": 57.97759683109488,
+      "fraction": 0.9575501021685091
+    },
+    {
+      "name": "1:全体 v36/10:足回り v14(ミラー)/11:モータマウント v12(ミラー)",
+      "near_base_section_area_mm2": 60.5478467580062,
+      "supported_section_area_mm2": 57.9775968624676,
+      "fraction": 0.9575501023874357
+    }
+  ],
+  "pcb_volume_mm3": 1048.6324783386754,
+  "pcb_z_mm": 1.7869267385966008,
+  "pcb_thickness_mm": 0.6,
+  "outline_xy_mm": [
+    [
+      -13,
+      5
+    ],
+    [
+      13,
+      5
+    ],
+    [
+      17,
+      9
+    ],
+    [
+      17,
+      32
+    ],
+    [
+      13.4,
+      32
+    ],
+    [
+      13.4,
+      48
+    ],
+    [
+      17,
+      48
+    ],
+    [
+      17,
+      57
+    ],
+    [
+      13,
+      61
+    ],
+    [
+      -13,
+      61
+    ],
+    [
+      -17,
+      57
+    ],
+    [
+      -17,
+      48
+    ],
+    [
+      -13.4,
+      48
+    ],
+    [
+      -13.4,
+      32
+    ],
+    [
+      -17,
+      32
+    ],
+    [
+      -17,
+      9
+    ]
+  ],
+  "mount_holes_xy_mm": [
+    [
+      -11.6,
+      36.25
+    ],
+    [
+      -11.6,
+      53.75
+    ],
+    [
+      11.6,
+      36.25
+    ],
+    [
+      11.6,
+      53.75
+    ]
+  ],
+  "mount_hole_diameter_mm": 1.7,
+  "unverified": [
+    "gear rotational swept volume",
+    "fan and duct",
+    "sensor holders",
+    "screw heads",
+    "wiring",
+    "manufacturing tolerances",
+    "strength",
+    "mass target"
+  ]
+}

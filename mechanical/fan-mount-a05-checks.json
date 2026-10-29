@@ -1,0 +1,2154 @@
+{
+  "revision": "A05 candidate",
+  "parts": 71,
+  "solids": 101,
+  "step_roundtrip_valid": true,
+  "dimensions_xyz_mm": [
+    38.80000000000004,
+    56.0,
+    19.886926738597044
+  ],
+  "bridge_mass_assumption": "nylon 1.15 g/cm3; screw envelopes steel 7.85; actual material/mass unconfirmed",
+  "added_mass_estimates": [
+    {
+      "part": "fan_bridge",
+      "volume_mm3": 521.2336191365599,
+      "assumed_density_g_cm3": 1.15,
+      "mass_g": 0.5994186620070439,
+      "center_mm": [
+        8.554044680158071e-16,
+        16.5,
+        10.12472595206998
+      ]
+    },
+    {
+      "part": "pcb_screw_0",
+      "volume_mm3": 14.514158059584844,
+      "assumed_density_g_cm3": 7.85,
+      "mass_g": 0.11393614076774103,
+      "center_mm": [
+        -13.500000000000002,
+        16.5,
+        2.059654011323874
+      ]
+    },
+    {
+      "part": "pcb_screw_1",
+      "volume_mm3": 14.514158059584844,
+      "assumed_density_g_cm3": 7.85,
+      "mass_g": 0.11393614076774103,
+      "center_mm": [
+        13.499999999999998,
+        16.5,
+        2.059654011323874
+      ]
+    },
+    {
+      "part": "mount_screw_0",
+      "volume_mm3": 9.927432785343749,
+      "assumed_density_g_cm3": 7.85,
+      "mass_g": 0.07793034736494842,
+      "center_mm": [
+        -4.499999999999999,
+        16.5,
+        11.956546991761122
+      ]
+    },
+    {
+      "part": "mount_screw_1",
+      "volume_mm3": 9.927432785343749,
+      "assumed_density_g_cm3": 7.85,
+      "mass_g": 0.07793034736494842,
+      "center_mm": [
+        4.500000000000001,
+        16.5,
+        11.956546991761122
+      ]
+    }
+  ],
+  "checks": [
+    {
+      "a": "fan_bridge",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "fan_bridge",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.552714925412265,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "000_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "001_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "002_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "003_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "004_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "005_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "006_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "007_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "008_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "009_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "010_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "011_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "012_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "013_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "014_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "015_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "016_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "017_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "018_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "019_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "020_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "021_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "022_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "023_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "024_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "025_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "026_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "027_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "028_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "029_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "030_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "031_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "032_wheel",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "033_tire",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "034_gear",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "035_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "036_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "037_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "038_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "039_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "040_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "041_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "042_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "043_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "044_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "045_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "046_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "047_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "048_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "049_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "050_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "051_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "052_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "053_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "054_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "055_bearing",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "056_magnet",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "057_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "058_encoder",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "059_mount",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "060_fan_motor",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "061_fan_mount",
+      "volume_mm3": 0.5527149254122117,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "062_fan",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "063_pcb",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "064_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "065_battery",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "pcb_screw_0",
+      "b": "fan_bridge",
+      "volume_mm3": 1.6399113651738713,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "fan_bridge",
+      "volume_mm3": 1.6399113651738713,
+      "intended_thread_engagement": true
+    },
+    {
+      "a": "pcb_screw_1",
+      "b": "pcb_screw_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "fan_bridge",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "pcb_screw_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_0",
+      "b": "pcb_screw_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "fan_bridge",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "pcb_screw_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "pcb_screw_1",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    },
+    {
+      "a": "mount_screw_1",
+      "b": "mount_screw_0",
+      "volume_mm3": 0.0,
+      "intended_thread_engagement": false
+    }
+  ],
+  "blade_swept_envelope_checks": [
+    {
+      "part": "fan_bridge",
+      "volume_mm3": 0.0,
+      "distance_mm": 0.6999999999999993
+    },
+    {
+      "part": "pcb_screw_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.4364805450302007
+    },
+    {
+      "part": "pcb_screw_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 1.4364805450302007
+    },
+    {
+      "part": "mount_screw_0",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.1874999999997815
+    },
+    {
+      "part": "mount_screw_1",
+      "volume_mm3": 0.0,
+      "distance_mm": 2.1874999999997815
+    }
+  ],
+  "pcb_holes": {
+    "x_mm": [
+      -13.5,
+      13.5
+    ],
+    "y_mm": 16.5,
+    "diameter_mm": 1.7
+  },
+  "unresolved": [
+    "M1.4 thread compatibility in existing diameter 1.221 holes",
+    "fastener catalog dimensions and thread strength",
+    "PCB copper keepouts and stiffness",
+    "duct and inlet",
+    "manufacturing tolerances",
+    "actual mass and complete CG"
+  ]
+}

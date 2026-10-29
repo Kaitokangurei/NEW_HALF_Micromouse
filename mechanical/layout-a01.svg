@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+<rect width="1000" height="760" fill="#f8fafc"/>
+<g font-family="sans-serif">
+<text x="35" y="36" font-size="24" fill="#263746">NEW HALF / 配置検討 A01</text>
+<text x="35" y="63" font-size="15" fill="#263746">単位 mm・上面図 ／ 仮配置・製造不可 ／ 前方は上</text>
+<rect x="104.0" y="110" width="312" height="528" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="7 5"/>
+<polygon points="156,150 364,150 396,182 396,358 356,358 356,502 396,502 396,566 364,598 156,598 124,566 124,502 164,502 164,358 124,358 124,182" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<circle cx="260" cy="254" r="120" fill="#dbeafe" fill-opacity="0.75" stroke="#2563eb" stroke-width="2"/>
+<text x="212" y="246" font-size="16" fill="#263746">ファン Φ30</text>
+<text x="212" y="269" font-size="13" fill="#263746">中心 Y=18</text>
+<rect x="112.0" y="374" width="40" height="112" fill="#334155" stroke="#0f172a" stroke-width="2" stroke-dasharray=""/>
+<rect x="368.0" y="374" width="40" height="112" fill="#334155" stroke="#0f172a" stroke-width="2" stroke-dasharray=""/>
+<rect x="161.6" y="378.0" width="96" height="200" fill="#fef3c7" stroke="#d97706" stroke-width="2" stroke-dasharray="4 3"/>
+<rect x="262.4" y="378.0" width="96" height="200" fill="#fef3c7" stroke="#d97706" stroke-width="2" stroke-dasharray="4 3"/>
+<text x="182" y="490" font-size="16" fill="#263746">電池 12×25×6 ×2</text>
+<text x="185" y="514" font-size="14" fill="#263746">上段・駆動部の上</text>
+<line x1="104.0" y1="430" x2="416.0" y2="430" stroke="#be123c" stroke-width="1.5" stroke-dasharray="5 4"/>
+<line x1="260" y1="110" x2="260" y2="638" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3 4"/>
+<line x1="104" y1="87" x2="416" y2="87" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="104" y1="80" x2="104" y2="104" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="416" y1="80" x2="416" y2="104" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<text x="220" y="81" font-size="16" fill="#263746">39 mm</text>
+<line x1="70" y1="110" x2="70" y2="638" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="63" y1="110" x2="97" y2="110" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="63" y1="638" x2="97" y2="638" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<text x="12" y="380" font-size="15" fill="#263746">66 mm</text>
+<text x="180" y="665" font-size="14" fill="#263746">後方 ／ 外接枠は完成機の目標</text>
+<line x1="164" y1="174" x2="132" y2="134" stroke="#9333ea" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="356" y1="174" x2="388" y2="134" stroke="#9333ea" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="156" y1="302" x2="108" y2="302" stroke="#9333ea" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="364" y1="302" x2="412" y2="302" stroke="#9333ea" stroke-width="1.5" stroke-dasharray=""/>
+<text x="475" y="128" font-size="22" fill="#0f172a">寸法の根拠</text>
+<text x="475" y="158" font-size="17" fill="#0f172a">目標外形：66 × 39 × 22 mm / 23 g</text>
+<text x="475" y="188" font-size="17" fill="#15803d">基板候補：最大幅34 × 長さ56 mm</text>
+<text x="475" y="218" font-size="17" fill="#be123c">車軸：Y=40、トレッド32（仮）</text>
+<text x="475" y="248" font-size="17" fill="#334155">車輪：Φ14、幅5（幅は未測定）</text>
+<text x="475" y="278" font-size="16" fill="#334155">タイヤを含む幅：37 mm（上記仮定）</text>
+<text x="475" y="308" font-size="16" fill="#b45309">電池：中心X=±6.3、Y=46（仮）</text>
+<text x="475" y="338" font-size="16" fill="#263746">青：ファン単体 / 黄破線：上段電池</text>
+<text x="475" y="368" font-size="16" fill="#9333ea">紫：センサ測距方向の候補</text>
+<text x="475" y="398" font-size="22" fill="#0f172a">未配置・要検証</text>
+<text x="475" y="428" font-size="17" fill="#b91c1c">モータ・ギア・エンコーダ・軸受</text>
+<text x="475" y="458" font-size="17" fill="#b91c1c">ファンケース・支持部・吸排気流路</text>
+<text x="475" y="488" font-size="17" fill="#b91c1c">センサ本体・ホルダー・取り付け穴</text>
+<text x="475" y="518" font-size="17" fill="#b91c1c">コネクタ・配線・部品高さ・重量</text>
+<text x="475" y="548" font-size="17" fill="#b91c1c">高さ22 mmの成立性は未確認</text>
+<text x="475" y="578" font-size="15" fill="#475569">図形の重なりは上下層の想定を含む。</text>
+<text x="475" y="608" font-size="15" fill="#475569">干渉がないことを示す図ではありません。</text>
+<text x="35" y="715" font-size="14" fill="#263746">参照：ToraNeko.Mk3 724d4f4 / type6 6e151e0 / 大会寸法はユーザー提供</text>
+<text x="35" y="739" font-size="14" fill="#263746">詳細・出典・未解決事項：docs/layout-a01.md</text>
+</g></svg>
